@@ -1,6 +1,6 @@
 # MICNS
 
-This repository (currently) contains Python3 code to reproduce main experiments of the method described in our NeurIPS'24 paper [Avoiding Undesired Futures with Minimal Cost in Non-Stationary Environments](https://www.lamda.nju.edu.cn/duwb/to%20appear.txt). Check this [poster](https://www.lamda.nju.edu.cn/duwb/MICNS-NeurIPS24/MICNS_poster.pdf) for quick introduction.
+This repository (currently) contains Python3 code to reproduce main experiments of the method described in our NeurIPS'24 paper [Avoiding Undesired Futures with Minimal Cost in Non-Stationary Environments](https://www.lamda.nju.edu.cn/duwb/MICNS-NeurIPS24/MICNS.pdf). Check this [poster](https://www.lamda.nju.edu.cn/duwb/MICNS-NeurIPS24/MICNS_poster.pdf) for quick introduction.
 
 
 ##  Organization
